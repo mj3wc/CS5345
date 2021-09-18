@@ -1,0 +1,2 @@
+The Code used for the lab is a c++ program. The program executes 5 different sorting algorithms in a random order, then uses metrics to detrmine which algorithim
+is what specific sorting algorithm.
